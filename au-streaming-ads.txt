@@ -1,0 +1,34 @@
+! =====================================================
+! AU Streaming Ads – Safe Core + Aggressive SSAI
+! Target: 7plus / 9Now / 10 Play (Australia)
+! Method: DNS-only (AdGuard Home compatible)
+! Risk: Medium (SSAI domains included)
+! =====================================================
+
+! --- SAFE CORE: Ad Telemetry / Bidding (Low Risk) ---
+adsafeprotected.com
+adsrvr.org
+adnxs.com
+rubiconproject.com
+pubmatic.com
+openx.net
+criteo.com
+doubleclick.net
+googlesyndication.com
+google-analytics.com
+scorecardresearch.com
+conviva.com
+segment.io
+branch.io
+app-measurement.com
+
+! --- AGGRESSIVE SSAI / AD DECISION (Higher Risk) ---
+freewheel.tv
+freewheel.com
+fwcdn.net
+spotx.tv
+teads.tv
+innovid.com
+imrworldwide.com
+moatads.com
+chartbeat.com
